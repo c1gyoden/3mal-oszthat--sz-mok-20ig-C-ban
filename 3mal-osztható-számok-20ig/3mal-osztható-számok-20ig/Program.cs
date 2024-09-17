@@ -10,7 +10,7 @@ namespace _3mal_osztható_számok_20ig
     {
         static void Main(string[] args)
         {
-            for (int i = 1; i < 21; i++)
+            for (int i = -100; i < 21; i++)
             {
                 if (i % 3 == 0) {
                     Console.WriteLine(i);
