@@ -1,0 +1,7 @@
+C:\Users\c1gyoden\source\repos\3mal-oszthat--sz-mok-20ig-C-ban\3mal-osztható-számok-20ig\3mal-osztható-számok-20ig\bin\Debug\3mal-osztható-számok-20ig.exe.config
+C:\Users\c1gyoden\source\repos\3mal-oszthat--sz-mok-20ig-C-ban\3mal-osztható-számok-20ig\3mal-osztható-számok-20ig\bin\Debug\3mal-osztható-számok-20ig.exe
+C:\Users\c1gyoden\source\repos\3mal-oszthat--sz-mok-20ig-C-ban\3mal-osztható-számok-20ig\3mal-osztható-számok-20ig\bin\Debug\3mal-osztható-számok-20ig.pdb
+C:\Users\c1gyoden\source\repos\3mal-oszthat--sz-mok-20ig-C-ban\3mal-osztható-számok-20ig\3mal-osztható-számok-20ig\obj\Debug\3mal-osztható-számok-20ig.csproj.AssemblyReference.cache
+C:\Users\c1gyoden\source\repos\3mal-oszthat--sz-mok-20ig-C-ban\3mal-osztható-számok-20ig\3mal-osztható-számok-20ig\obj\Debug\3mal-osztható-számok-20ig.csproj.CoreCompileInputs.cache
+C:\Users\c1gyoden\source\repos\3mal-oszthat--sz-mok-20ig-C-ban\3mal-osztható-számok-20ig\3mal-osztható-számok-20ig\obj\Debug\3mal-osztható-számok-20ig.exe
+C:\Users\c1gyoden\source\repos\3mal-oszthat--sz-mok-20ig-C-ban\3mal-osztható-számok-20ig\3mal-osztható-számok-20ig\obj\Debug\3mal-osztható-számok-20ig.pdb

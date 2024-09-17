@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c1gyoden\\source\\repos\\3mal-oszthat--sz-mok-20ig-C-ban\\3mal-oszthat\u00F3-sz\u00E1mok-20ig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFD4EDB-FF8B-40B9-9A96-B7AED206FC02}|3mal-oszthat\u00F3-sz\u00E1mok-20ig\\3mal-oszthat\u00F3-sz\u00E1mok-20ig.csproj|c:\\users\\c1gyoden\\source\\repos\\3mal-oszthat--sz-mok-20ig-c-ban\\3mal-oszthat\u00F3-sz\u00E1mok-20ig\\3mal-oszthat\u00F3-sz\u00E1mok-20ig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFD4EDB-FF8B-40B9-9A96-B7AED206FC02}|3mal-oszthat\u00F3-sz\u00E1mok-20ig\\3mal-oszthat\u00F3-sz\u00E1mok-20ig.csproj|solutionrelative:3mal-oszthat\u00F3-sz\u00E1mok-20ig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\c1gyoden\\source\\repos\\3mal-oszthat--sz-mok-20ig-C-ban\\3mal-oszthat\u00F3-sz\u00E1mok-20ig\\3mal-oszthat\u00F3-sz\u00E1mok-20ig\\Program.cs",
+              "RelativeDocumentMoniker": "3mal-oszthat\u00F3-sz\u00E1mok-20ig\\Program.cs",
+              "ToolTip": "C:\\Users\\c1gyoden\\source\\repos\\3mal-oszthat--sz-mok-20ig-C-ban\\3mal-oszthat\u00F3-sz\u00E1mok-20ig\\3mal-oszthat\u00F3-sz\u00E1mok-20ig\\Program.cs*",
+              "RelativeToolTip": "3mal-oszthat\u00F3-sz\u00E1mok-20ig\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:04:49.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
